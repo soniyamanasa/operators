@@ -1,0 +1,8 @@
+a=int(input())
+l=int(input())
+b=int(input())
+r=float(input())
+print(a*a)
+print(l*b)
+pi=3.141
+print('%.2f' %(pi*r*r))
